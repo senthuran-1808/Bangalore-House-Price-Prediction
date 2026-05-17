@@ -8,6 +8,7 @@ The project performs complete Data Science workflow including data cleaning, pre
 
 <video controls src="House Price Prediction-1-1.mp4" title="Title"></video>
 
+---
 # Project Objective
 
 The main goal of this project is to help users estimate the approximate budget or price of a house in Bangalore using Machine Learning algorithms.
